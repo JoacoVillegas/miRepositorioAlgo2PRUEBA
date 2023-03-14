@@ -1,0 +1,2 @@
+print("BIENVENIDO AL MULTIVERSO DE LA LOCURA")
+print( "2 + 2 = 5")
