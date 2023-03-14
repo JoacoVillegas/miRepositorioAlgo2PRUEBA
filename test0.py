@@ -1,6 +1,8 @@
 class binaryTree:
     key = None
-print("HOLA MI HERMOSO MUNDO")
+
 miArbol = binaryTree
 
-miArbol.key = 10
+miArbol.key = 10 
+DreamOn = binaryTree
+print("wow")
